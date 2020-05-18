@@ -12,7 +12,7 @@ Welcome to the GOW API！ You can use this API to obtain market data, perform tr
 
 ## Integration url
 
-**REST API**:http://47.75.162.18:56666/
+**REST API**:https://openapi.gowph.com/
 
 ## Request Header Parameters
 
